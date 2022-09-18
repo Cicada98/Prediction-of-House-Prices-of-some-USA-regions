@@ -1,5 +1,5 @@
 # Prediction of House Prices of some USA regions
-<!-- Your neighbor gives you some information about a bunch of houses in regions of the United States,it is all in the data set: USA_Housing.csv.
+Your neighbor gives you some information about a bunch of houses in regions of the United States,it is all in the data set: USA_Housing.csv.
 
 The data contains the following columns:
 
@@ -9,4 +9,4 @@ The data contains the following columns:
 * 'Avg. Area Number of Bedrooms': Avg Number of Bedrooms for Houses in same city
 * 'Area Population': Population of city house is located in
 * 'Price': Price that the house sold at
-* 'Address': Address for the house -->
+* 'Address': Address for the house 
