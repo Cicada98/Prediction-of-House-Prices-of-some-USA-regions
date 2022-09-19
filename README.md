@@ -1,4 +1,5 @@
 # Prediction of House Prices of some USA regions
+Using the Concepts of Linear Regression, i made a model to predict house prices of some USA regions.
 Your neighbor gives you some information about a bunch of houses in regions of the United States,it is all in the data set: USA_Housing.csv.
 
 The data contains the following columns:
